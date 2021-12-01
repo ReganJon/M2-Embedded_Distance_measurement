@@ -1,3 +1,3 @@
 # Design
 ## Structural Diagram
-![enter image description here](https://lh3.googleusercontent.com/proxy/e56cBHgAvx-us9X7Y_tf-egn2CwjyEerZqfTQ6Vn3K0SQqOSXApMr3xVeMtH3-AAE-M2a0zZA_QqPKIPE4-mHscdfgE3bkY-UGhcazsfYQ)
+![enter image description here](https://github.com/ReganJon/M2-Embedded_Distance_measurement/blob/main/2_Design/STD1.png)
