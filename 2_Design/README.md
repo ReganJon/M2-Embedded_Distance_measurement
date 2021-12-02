@@ -1,7 +1,9 @@
 # Design
 ## Structural Diagram
-## High Level
+## Low Level
 ![enter image description here](https://github.com/ReganJon/M2-Embedded_Distance_measurement/blob/main/2_Design/STL1.png)
+## High Level
+![enter image description here](https://github.com/ReganJon/M2-Embedded_Distance_measurement/blob/main/2_Design/STL2.png)
 
 ## Behavioural Diagram
 ## Low Level
