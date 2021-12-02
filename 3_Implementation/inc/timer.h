@@ -19,3 +19,17 @@
 
 
 volatile typedef enum edge_state_t{INIT_RISING,RISING,FALLING}edge_state;
+
+volatile typedef struct {
+	edge_state current_edge;
+	edge_state next_edge;
+
+}edge_t;
+volatile edge_t edge;
+
+/**Function prototypes*/
+void init_input_capture();
+void init_timer2();
+
+
+#endif /* TIMER_H_ */
