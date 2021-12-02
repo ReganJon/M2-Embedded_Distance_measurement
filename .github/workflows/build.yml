@@ -1,4 +1,4 @@
-name: build-Linux
+name: Build
 
 on:
   push:
