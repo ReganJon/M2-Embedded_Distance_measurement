@@ -44,18 +44,18 @@ Implemented by using the Embedded system concepts and C program.
 
 ## Detail Requirements
 ## High Level Requirements
-|ID  |Description      |
-|----|-----------------|
-|HLR1|Microcontroller  |
-|HLR2|Ultrasonic Sensor|
-|HLR3|Display          |
-|HLR4|Software         |
+|ID  |Description      |Status     |
+|----|-----------------|-----------|
+|HLR1|Microcontroller  |Implemented|
+|HLR2|Ultrasonic Sensor|Implemented|
+|HLR3|Display          |Implemented|
+|HLR4|Software         |Implemented|
 
 ## Low Level Requirements
-|ID       |Description                             |
-|---------|----------------------------------------|
-|HLR1_LLR1|ATmega328                               |
-|HLR2_LLR1|HC-SR04                                 |
-|HLR3_LLR1|LCD Display                             |
-|HLR4_LLR1|Visual Studio Code with AVR GCC compiler|
-|HLR4_LLR2|SimulIDE                                |
+|ID       |Description                             |Status     |
+|---------|----------------------------------------|-----------|
+|HLR1_LLR1|ATmega328                               |Implemented|
+|HLR2_LLR1|HC-SR04                                 |Implemented|
+|HLR3_LLR1|LCD Display                             |Implemented|
+|HLR4_LLR1|Visual Studio Code with AVR GCC compiler|Implemented|
+|HLR4_LLR2|SimulIDE                                |Implemented|
