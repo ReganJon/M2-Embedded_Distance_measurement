@@ -17,4 +17,4 @@
 ![enter image description here](https://github.com/ReganJon/M2-Embedded_Distance_measurement/blob/main/2_Design/Block.png)
 
 ## Schematic Diagram
-![enter image description here](https://github.com/ReganJon/M2-Embedded_Distance_measurement/blob/main/2_Design/Schematic diagram.png)
+![enter image description here](https://github.com/ReganJon/M2-Embedded_Distance_measurement/blob/main/2_Design/Schematic%20diagram.png)
