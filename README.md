@@ -3,4 +3,4 @@ Measurement of distance using embedded C and Simul IDE
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/ReganJon/M2-Embedded_Distance_measurement/actions/workflows/Cpp.yml/badge.svg?branch=main)](https://github.com/ReganJon/M2-Embedded_Distance_measurement/actions/workflows/Cpp.yml)
 
-[![build-Linux](https://github.com/ReganJon/M2-Embedded_Distance_measurement/actions/workflows/build_lin.yml/badge.svg?branch=main)](https://github.com/ReganJon/M2-Embedded_Distance_measurement/actions/workflows/build_lin.yml)
+[![Build](https://github.com/ReganJon/M2-Embedded_Distance_measurement/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/ReganJon/M2-Embedded_Distance_measurement/actions/workflows/build.yml)
